@@ -41,7 +41,7 @@ Since this project was developed specifically for the **Eclipse IDE** environmen
 ## 👥 Contributors
 
 * **Daniel Garay** - [GitHub Profile](https://github.com/Shauwye)
-* **-** - []
+* **Julian Samuel Rodriguez** - [Github Profile](https://github.com/JulianRH15)
 * **-** - []
 
 ## 🎓 Academic Context
